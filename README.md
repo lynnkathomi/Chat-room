@@ -70,4 +70,4 @@ Acknowledgements
 The design inspiration came from modern messaging apps like WhatsApp and Messenger.
 Thanks to Google Fonts for providing free and easy-to-use web fonts.
 Contact
-For any questions or suggestions, feel free to reach out at your-lynnkathomi@gmail.com.
+For any questions or suggestions, feel free to reach out at lynnkathomi@gmail.com.
